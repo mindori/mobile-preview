@@ -6,6 +6,9 @@ description: >
   "preview on mobile", "check on my phone", "test on mobile", (3) remote
   development (remote-control/SSH) where external access is needed,
   (4) sharing localhost with external devices.
+  Korean triggers: "모바일에서 확인", "모바일 프리뷰", "폰으로 확인",
+  "폰으로 테스트", "핸드폰에서 보고 싶다", "모바일에서 보고 싶어",
+  "모바일로 테스트", "폰에서 열어봐".
 ---
 
 # Mobile Preview
